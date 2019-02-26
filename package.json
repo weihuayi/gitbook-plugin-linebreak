@@ -1,0 +1,27 @@
+{
+  "name": "gitbook-plugin-linebreak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weihuayi/gitbook-plugin-linebreak.git"
+  },
+  "keywords": [
+    "linebreak",
+    "gitbook",
+    "chinese"
+  ],
+  "author": {
+      "name": "Wei, Huayi",
+      "email": "weihuayi@xtu.edu.cn"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/weihuayi/gitbook-plugin-linebreak/issues"
+  },
+  "homepage": "https://github.com/weihuayi/gitbook-plugin-linebreak#README.md"
+}
